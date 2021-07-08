@@ -1,1 +1,1 @@
-git merge test from 7
+git merge test from 7 and 6
