@@ -1,1 +1,1 @@
-# sehee-remote
+# from 6 node
