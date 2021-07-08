@@ -1,2 +1,1 @@
-from 6
-merge test1 from 6
+git merge test from 7
